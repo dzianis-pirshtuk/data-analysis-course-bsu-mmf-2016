@@ -1,6 +1,7 @@
 # Лабораторная работа № 5. Решающие деревья и леса. Кластеризация и понижение размерности.
 
 **Условие:** http://nbviewer.jupyter.org/urls/dl.dropbox.com/s/yfxh8y2i9lyvxfb/lab.5.ipynb
+
 **Данные ЭКГ (файл heart.dat.txt):** https://www.dropbox.com/s/4c8d4xk5n7ofwza/heart.dat.txt?dl=0#
 
 **Срок сдачи работы: 21 ноября 2016 года.** Не забудьте прислать отчеты мне и К.Г. Атрохову.
