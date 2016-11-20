@@ -1,6 +1,6 @@
 # Лабораторная работа № 6. Data mining-исследование.
 
-**Задание:** В качестве лабораторной работы №5 предлагается выполнить следующие задания: http://nbviewer.jupyter.org/github/grafft/hse-tasks/blob/master/minor-aml-16/hw2/hw2-boosting.ipynb
+**Задание:** В качестве лабораторной работы №6 предлагается выполнить следующие задания: http://nbviewer.jupyter.org/github/grafft/hse-tasks/blob/master/minor-aml-16/hw2/hw2-boosting.ipynb
 
 **Описание данных:** https://archive.ics.uci.edu/ml/datasets/STUDENT+ALCOHOL+CONSUMPTION
 
