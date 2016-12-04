@@ -7,7 +7,8 @@
    * http://playittodeath.ru/Exploratory_graphs.html
    * https://plot.ly/python/
    * http://seaborn.pydata.org/examples/index.html
-2. Зарегиструйтесь на https://plot.ly .
-3. Сгенерируйте на странице https://plot.ly/settings/api ваш персональный API Key. Ваш логин и API-ключ нужно будет подставить
+3. Зарегиструйтесь на https://plot.ly .
+4. Сгенерируйте на странице https://plot.ly/settings/api ваш персональный API Key. Ваш логин и API-ключ нужно будет подставить
 в строку `py.sign_in('your_login', 'your_api_key')` в ipython notebook-е.
-4. Выполните задания в IPython Notebook-е.
+5. Загрузите и распакуйте архив  https://github.com/dzianis-pirshtuk/data-analysis-course-bsu-mmf-2016/raw/master/Lab_07/service311.db.zip 
+6. Выполните задания в IPython Notebook-е.
