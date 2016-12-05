@@ -13,4 +13,4 @@
 5. Загрузите и распакуйте архив  https://github.com/dzianis-pirshtuk/data-analysis-course-bsu-mmf-2016/raw/master/Lab_07/service311.db.zip 
 6. Выполните задания в IPython Notebook-е Lab_07.ipynb: http://nbviewer.jupyter.org/github/dzianis-pirshtuk/data-analysis-course-bsu-mmf-2016/blob/master/Lab_07/Lab_07.ipynb
 
-Срок сдачи работы: 12 декабря 2016 года.
+**Срок сдачи работы: 12 декабря 2016 года.**
