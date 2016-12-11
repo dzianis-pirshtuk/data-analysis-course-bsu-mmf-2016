@@ -16,6 +16,8 @@ http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.ht
 
 *К отчету обязательно прикрепите файл `submission.csv` с результатов лучшей посылки и скриншот качества на этой посылке.*
 
+Для удобства можете начать с https://github.com/dzianis-pirshtuk/data-analysis-course-bsu-mmf-2016/blob/master/Lab_08/Quickstart.ipynb 
+
 **Минимальное допустимое качество при сдаче лабораторной (baseline):** 8100.
 
 **Рекомендуемый срок сдачи лабораторной работы**: 19 декабря.
